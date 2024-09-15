@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gali likitha\\source\\repos\\WiseWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6C9A98-2CEE-4901-9068-71086A176DA8}|WiseWork\\WiseWork.csproj|c:\\users\\gali likitha\\source\\repos\\wisework\\wisework\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6C9A98-2CEE-4901-9068-71086A176DA8}|WiseWork\\WiseWork.csproj|solutionrelative:wisework\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6C9A98-2CEE-4901-9068-71086A176DA8}|WiseWork\\WiseWork.csproj|c:\\users\\gali likitha\\source\\repos\\wisework\\wisework\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6C9A98-2CEE-4901-9068-71086A176DA8}|WiseWork\\WiseWork.csproj|solutionrelative:wisework\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6C9A98-2CEE-4901-9068-71086A176DA8}|WiseWork\\WiseWork.csproj|c:\\users\\gali likitha\\source\\repos\\wisework\\wisework\\hubs\\roomhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6C9A98-2CEE-4901-9068-71086A176DA8}|WiseWork\\WiseWork.csproj|solutionrelative:wisework\\hubs\\roomhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6C9A98-2CEE-4901-9068-71086A176DA8}|WiseWork\\WiseWork.csproj|c:\\users\\gali likitha\\source\\repos\\wisework\\wisework\\components\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F6C9A98-2CEE-4901-9068-71086A176DA8}|WiseWork\\WiseWork.csproj|solutionrelative:wisework\\components\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6C9A98-2CEE-4901-9068-71086A176DA8}|WiseWork\\WiseWork.csproj|c:\\users\\gali likitha\\source\\repos\\wisework\\wisework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6C9A98-2CEE-4901-9068-71086A176DA8}|WiseWork\\WiseWork.csproj|solutionrelative:wisework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.razor",
+              "DocumentMoniker": "C:\\Users\\gali likitha\\source\\repos\\WiseWork\\WiseWork\\Components\\Pages\\Dashboard.razor",
+              "RelativeDocumentMoniker": "WiseWork\\Components\\Pages\\Dashboard.razor",
+              "ToolTip": "C:\\Users\\gali likitha\\source\\repos\\WiseWork\\WiseWork\\Components\\Pages\\Dashboard.razor",
+              "RelativeToolTip": "WiseWork\\Components\\Pages\\Dashboard.razor",
+              "ViewState": "AQIAADgDAAAAAAAAAAAewOIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T17:17:07.181Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\gali likitha\\source\\repos\\WiseWork\\WiseWork\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "WiseWork\\Services\\RoomService.cs",
+              "ToolTip": "C:\\Users\\gali likitha\\source\\repos\\WiseWork\\WiseWork\\Services\\RoomService.cs",
+              "RelativeToolTip": "WiseWork\\Services\\RoomService.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAIAwwJYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T05:17:11.417Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomHub.cs",
+              "DocumentMoniker": "C:\\Users\\gali likitha\\source\\repos\\WiseWork\\WiseWork\\Hubs\\RoomHub.cs",
+              "RelativeDocumentMoniker": "WiseWork\\Hubs\\RoomHub.cs",
+              "ToolTip": "C:\\Users\\gali likitha\\source\\repos\\WiseWork\\WiseWork\\Hubs\\RoomHub.cs",
+              "RelativeToolTip": "WiseWork\\Hubs\\RoomHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHEAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:36:14.507Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gali likitha\\source\\repos\\WiseWork\\WiseWork\\Program.cs",
+              "RelativeDocumentMoniker": "WiseWork\\Program.cs",
+              "ToolTip": "C:\\Users\\gali likitha\\source\\repos\\WiseWork\\WiseWork\\Program.cs",
+              "RelativeToolTip": "WiseWork\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T10:28:05.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\gali likitha\\source\\repos\\WiseWork\\WiseWork\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "WiseWork\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\gali likitha\\source\\repos\\WiseWork\\WiseWork\\Models\\Room.cs",
+              "RelativeToolTip": "WiseWork\\Models\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:48:13.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
